@@ -14,5 +14,9 @@ if they are not installed in your python environment
 >>> pip install [library name]
 
 # Usage
-$ python scriptName path_to_excel_file
+$ python excel_to_csv.py path_to_excel_file
+
+# Convert in batch
+set source directoy and destination directory in excel_to_csv_batch script
+$ python excel_to_csv_batch.py 
 
