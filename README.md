@@ -17,5 +17,6 @@ $ python excel_to_csv.py path_to_excel_file
 
 # Convert in batch
 set source directoy and destination directory in excel_to_csv_batch script
+
 $ python excel_to_csv_batch.py 
 
